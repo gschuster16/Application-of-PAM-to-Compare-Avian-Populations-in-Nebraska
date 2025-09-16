@@ -1,0 +1,13 @@
+ARU,Location,belvir,burowl,easmea,grpchi,logshr,savspa,swahaw,,SUM
+NE01,Grass,1,0,1,0,1,1,0,,4
+NE02,Corn,0,0,1,0,0,1,0,,2
+NE03,Grass,1,0,1,1,0,1,0,,4
+NE04,Corn,0,0,0,1,1,1,0,,3
+NE05,Grass,0,1,1,1,0,1,1,,5
+NE06,Corn,0,1,1,1,0,1,0,,4
+NE07,Grass,1,0,1,0,1,1,1,,5
+NE08,Corn,0,0,1,0,0,1,0,,2
+NE09,Grass,1,1,1,1,1,1,1,,7
+NE10,Corn,0,1,1,1,1,0,0,,4
+NE11,Corn,0,0,0,1,0,1,0,,2
+NE12,Grass,0,1,1,1,1,1,1,,6
